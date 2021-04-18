@@ -1,0 +1,1 @@
+computer	111	0	1	kurose
